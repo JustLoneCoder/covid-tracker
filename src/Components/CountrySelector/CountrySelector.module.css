@@ -1,0 +1,18 @@
+.customSelect {
+	outline: none;
+	width: 40%;
+	height: 50%;
+	border: 1px solid rgb(80, 80, 80);
+	border-radius: 0.25rem;
+	font-size: 15px;
+}
+
+.customSelect:hover {
+  border-color: #888;
+}
+
+.customSelect option {
+  	font-weight:normal;
+	font-size: 15px;
+}
+
